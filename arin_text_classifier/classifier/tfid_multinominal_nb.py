@@ -13,7 +13,7 @@ class TfidMultinominalNb:
 
     def fit(self, dataset:dict):
         X = dataset["list_text"]
-        Y = dataset["list_label"]
+        Y = dataset["list_text_label"]
         X_transformed = self.encoder.fit_transform(X)
         self.classifier.fit(X_transformed, Y)
 
