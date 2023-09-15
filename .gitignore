@@ -161,3 +161,5 @@ cython_debug/
 venv**
 test/test_data/*
 test/sample_emails.txt
+test/test_model_ms/*
+N

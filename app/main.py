@@ -11,8 +11,8 @@ app = FastAPI()
 dict_classifier = {}
 dict_dataset = {}
 
-from arin_text_classifier.classifier.tfid_multinominal_nb import \
-    TfidMultinominalNb
+from arin_text_classifier.classifier.sequence_multilabel import SequenceMultilabel
+from arin_text_classifier.classifier.tfid_multinominal_nb import TfidMultinominalNb
 
 
 class DatasetTemplate(BaseModel):
@@ -25,9 +25,11 @@ class InstanceTemplate(BaseModel):
     text: str
     text_label: str
 
+
 class PredictionRequest(BaseModel):
     classifier_id: str
     text: str
+
 
 class InstanceBatchTemplate(BaseModel):
     list_instance: List[InstanceTemplate]
@@ -38,21 +40,20 @@ class ClassifierTemplate(BaseModel):
     dict_tag: Dict[str, str]
     dataset_id: str
 
+
 @app.get("/list_dataset/")
 async def list_dataset():
     dict_list_dataset = {}
     dict_list_dataset["list_dataset"] = []
     for dataset_id, dataset in dict_dataset.items():
         dict_list_dataset["list_dataset"].append(
-            {
-                "dataset_id": dataset_id,
-                "dict_tag": dataset["dict_tag"],
-                "list_label": dataset["list_label"]
-            })
+            {"dataset_id": dataset_id, "dict_tag": dataset["dict_tag"], "list_label": dataset["list_label"]}
+        )
     return dict_list_dataset
 
+
 @app.post("/create_dataset/")
-async def create_dataset(dataset_template:DatasetTemplate):
+async def create_dataset(dataset_template: DatasetTemplate):
     dataset_id = str(uuid.uuid4())
     dataset = {}
     dataset["dataset_id"] = dataset_id
@@ -62,7 +63,8 @@ async def create_dataset(dataset_template:DatasetTemplate):
     dataset["list_text"] = []
     dataset["list_text_label"] = []
     dict_dataset[dataset_id] = dataset
-    return {"dataset_id":dataset_id}
+    return {"dataset_id": dataset_id}
+
 
 @app.post("/add_instance/")
 async def add_instance(instance_template: InstanceTemplate):
@@ -96,9 +98,11 @@ async def add_instance_batch(instance_batch_template: InstanceBatchTemplate):
         list_instance_id.append(instance_id)
     return {"list_instance_id": list_instance_id}
 
+
 @app.get("/list_classifier_types/")
 async def list_classifier_types():
-    return {"list_classifier_types": ["tfid_multinominal_nb"]}
+    return {"list_classifier_types": ["tfid_multinominal_nb", "sequence_multilabel"]}
+
 
 @app.get("/list_classifiers/")
 async def list_classifiers():
@@ -106,18 +110,19 @@ async def list_classifiers():
     dict_list_classifier["list_classifier"] = []
     for classfier_id, classifier in dict_classifier.items():
         dict_list_classifier["list_classifier"].append(
-            {
-                "classfier_id": classfier_id,
-                "dict_tag": classifier["dict_tag"],
-                "list_label": classifier["list_label"]
-            })
+            {"classfier_id": classfier_id, "dict_tag": classifier["dict_tag"], "list_label": classifier["list_label"]}
+        )
     return dict_list_classifier
+
 
 @app.post("/create_classifier/")
 async def create_classifier(classifier_template: ClassifierTemplate):
 
-    if classifier_template.classifier_type not in ["tfid_multinominal_nb"]:
-        raise HTTPException(status_code=404, detail=f"Classifier type {classifier_template.classifier_type} not found")
+    if classifier_template.classifier_type not in ["tfid_multinominal_nb", "sequence_multilabel"]:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Classifier type {classifier_template.classifier_type} not found, should be one of [`tfid_multinominal_nb`, `sequence_multilabel`]",
+        )
     if classifier_template.dataset_id not in dict_dataset:
         raise HTTPException(status_code=404, detail=f"Dataset with id {classifier_template.dataset_id} not found")
     classifier_id = str(uuid.uuid4())
@@ -125,9 +130,17 @@ async def create_classifier(classifier_template: ClassifierTemplate):
     classifier["classifier_id"] = classifier_id
     classifier["dict_tag"] = classifier_template.dict_tag
     classifier["list_label"] = dict_dataset[classifier_template.dataset_id]["list_label"]
+    classifier["status"] = "queued"
     if classifier_template.classifier_type == "tfid_multinominal_nb":
         classifier["model"] = TfidMultinominalNb()
         classifier["model"].fit(dict_dataset[classifier_template.dataset_id])
+        classifier["status"] = "ready"
+
+    if classifier_template.classifier_type == "sequence_multilabel":
+        # TODO this will time out
+        classifier["model"] = SequenceMultilabel()
+        classifier["model"].fit(dict_dataset[classifier_template.dataset_id])
+        classifier["status"] = "ready"
     dict_classifier[classifier_id] = classifier
     return {"classifier_id": classifier_id}
 
@@ -137,5 +150,32 @@ def predict(prediction_request: PredictionRequest):
     if prediction_request.classifier_id not in dict_classifier:
         raise HTTPException(status_code=404, detail=f"Classfier with id {prediction_request.classifier_id} not found")
     classifier = dict_classifier[prediction_request.classifier_id]
-    dict_result = classifier["model"].classify(prediction_request.text)
+    dict_result = classifier["model"].predict(prediction_request.text)
+    return dict_result
+
+
+@app.post("/predict_explain/")
+def predict_explain(prediction_request: PredictionRequest):
+    if prediction_request.classifier_id not in dict_classifier:
+        raise HTTPException(status_code=404, detail=f"Classfier with id {prediction_request.classifier_id} not found")
+    classifier = dict_classifier[prediction_request.classifier_id]
+    dict_result = classifier["model"].predict_explain(prediction_request.text)
+    return dict_result
+
+
+@app.post("/predict_explain_html/")
+def predict_explain_html(prediction_request: PredictionRequest):
+    if prediction_request.classifier_id not in dict_classifier:
+        raise HTTPException(status_code=404, detail=f"Classfier with id {prediction_request.classifier_id} not found")
+    classifier = dict_classifier[prediction_request.classifier_id]
+    dict_result = classifier["model"].predict_explain_html(prediction_request.text)
+    return dict_result
+    return dict_result
+    return dict_result
+    return dict_result
+    return dict_result
+    return dict_result
+    return dict_result
+    return dict_result
+    return dict_result
     return dict_result

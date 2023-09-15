@@ -1,11 +1,6 @@
-import json
-import os
-import random
-
 from tools_test import load_test_data
 
-from arin_text_classifier.classifier.tfid_multinominal_nb import \
-    TfidMultinominalNb
+from arin_text_classifier.classifier.tfid_multinominal_nb import TfidMultinominalNb
 
 if __name__ == "__main__":
     dataset = load_test_data()
