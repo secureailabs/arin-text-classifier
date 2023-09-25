@@ -1,0 +1,1 @@
+{"error": "The size of tensor a (683) must match the size of tensor b (512) at non-singleton dimension 1"}

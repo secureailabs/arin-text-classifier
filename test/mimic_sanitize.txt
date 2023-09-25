@@ -1,0 +1,394 @@
+Admission Date:  [**2108-1-2**]              Discharge Date:   [**2108-1-10**]
+
+Date of Birth:  [**2039-6-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Amoxicillin
+
+Attending:[**First Name3 (LF) 1973**]
+Chief Complaint:
+Suicidal ingestion.
+
+Major Surgical or Invasive Procedure:
+Intubation
+Nasogastric lavage
+Esophagoduodonoscopy
+
+
+History of Present Illness:
+This is a 68 year old male with a history of depression who was
+admitted on [**1-2**] after an apparent intentional overdose of
+Seroquel, Paxil, and aspirin and found down with dried blood
+along his lips. Due to somnolence and poor gag reflex, he was
+intubated and admitted to the ICU. NG lavage was performed and
+revealed coffee grounds. GI was consulted and he received IV
+PPI, and one unit of pRBCs. They perfomed upper endoscopy which
+showed gastritis, no evidence of active bleeding, and pill
+fragments (some of which could be collected). Per toxicology,
+serial aspirin levels were checked with a max of 38. He was
+given IVFs with bicarb, and actived charcoal on [**1-3**]. There was
+some concern re: serotonin syndrome but with no symptoms of this
+and nl QT intervals on serial EKGs. He was treated for a likely
+aspiratin pneumonia with Unasyn, transitioned to Augmentin, was
+extubated and is now satting well on room air. He has been
+treated for renal failure which is resolving. CKs elevated but
+are now downtrending. Psychiatry has been following and
+recommended continuing to hold Paxil and inpatient psych
+admission. Section 12 was signed.
+
+Past Medical History:
+- Depression
+- HTN
+- History of colonic polyps
+- Hematuria
+
+Social History:
+Lives with daughter who recently returned from living abroad.
+She has pain disorder - this and her resulting behavior in the
+setting of financial issues have caused distress at home within
+the family.  Non-smoker with occasional glass of wine per family
+and prior records. The patient was born in [**State 531**]. Both of his
+parents are deceased.  He has one brother who lives in [**Name (NI) **].
+The patient has a PhD in psychology and has been teaching
+religion and [**Hospital1 100**] Studies for the last 30 years.  He recently
+decided to take the next semester off from teaching because of
+decreased ability to concentrate and his worries about his
+financial situation.  He is married and has two sons and one
+daughter.
+
+
+Family History:
+Family history of depression and suicide.
+
+Physical Exam:
+On admission:
+Vitals: T: 98.6 P: 85 BP: 99/57 R: 18 O2: 98% ventilator
+General: Sedated, intubated
+HEENT: Pupils noreactive bilaterally, 3mm
+Neck: JVP not elevated
+Lungs: Coarse lung sounds, equal bilaterally
+CV: RRR no murmurs
+Abdomen: Soft, NT, non-distended, no rebound, no guarding, BS+
+GU: Foley in place with yellow, clear urine drainage
+Ext: Warm, well perfused, 1+ pedal pulses, no edema
+
+Pertinent Results:
+Complete Blood Count:
+[**2108-1-2**] 03:00PM BLOOD WBC-13.6* RBC-3.87* Hgb-12.2* Hct-36.2*
+MCV-94 MCH-31.6 MCHC-33.8 RDW-12.4 Plt Ct-193
+[**2108-1-3**] 01:45AM BLOOD WBC-12.8* RBC-3.30* Hgb-10.6* Hct-30.8*
+MCV-93 MCH-32.1* MCHC-34.5 RDW-13.7 Plt Ct-134*
+[**2108-1-3**] 10:44AM BLOOD WBC-13.4* RBC-3.49* Hgb-11.4* Hct-32.7*
+MCV-94 MCH-32.5* MCHC-34.7 RDW-14.0 Plt Ct-141*
+[**2108-1-3**] 08:05PM BLOOD WBC-11.2* RBC-3.31* Hgb-10.7* Hct-30.3*
+MCV-92 MCH-32.4* MCHC-35.4* RDW-13.9 Plt Ct-140*
+[**2108-1-4**] 05:11AM BLOOD WBC-9.4 RBC-3.21* Hgb-9.9* Hct-29.7*
+MCV-93 MCH-30.9 MCHC-33.4 RDW-13.9 Plt Ct-131*
+[**2108-1-5**] 08:40AM BLOOD WBC-8.3 RBC-3.36* Hgb-10.4* Hct-32.0*
+MCV-95 MCH-31.0 MCHC-32.6 RDW-13.5 Plt Ct-138*
+[**2108-1-6**] 07:25AM BLOOD WBC-6.7 RBC-3.03* Hgb-9.6* Hct-28.5*
+MCV-94 MCH-31.6 MCHC-33.7 RDW-13.3 Plt Ct-140*
+[**2108-1-7**] 08:45AM BLOOD WBC-6.2 RBC-3.30* Hgb-10.5* Hct-31.1*
+MCV-94 MCH-31.8 MCHC-33.8 RDW-13.0 Plt Ct-189
+[**2108-1-8**] 08:05AM BLOOD WBC-6.0 RBC-3.54* Hgb-11.0* Hct-33.3*
+MCV-94 MCH-31.2 MCHC-33.2 RDW-12.9 Plt Ct-233
+[**2108-1-9**] 08:00AM BLOOD WBC-6.4 RBC-3.33* Hgb-10.8* Hct-31.8*
+MCV-95 MCH-32.4* MCHC-34.0 RDW-12.7 Plt Ct-278
+[**2108-1-10**] 06:55AM BLOOD WBC-5.5 RBC-3.50* Hgb-10.9* Hct-33.1*
+MCV-95 MCH-31.1 MCHC-32.9 RDW-13.0 Plt Ct-316
+.
+Coagulation Profile:
+[**2108-1-2**] 03:00PM BLOOD PT-13.4 PTT-20.8* INR(PT)-1.1
+[**2108-1-3**] 01:45AM BLOOD PT-14.7* PTT-26.8 INR(PT)-1.3*
+[**2108-1-3**] 10:44AM BLOOD PT-15.6* PTT-27.9 INR(PT)-1.4*
+[**2108-1-4**] 05:11AM BLOOD PT-16.3* PTT-29.6 INR(PT)-1.4*
+[**2108-1-4**] 01:48PM BLOOD PT-12.8 PTT-22.0 INR(PT)-1.1
+[**2108-1-5**] 08:40AM BLOOD PT-13.1 PTT-26.6 INR(PT)-1.1
+[**2108-1-6**] 07:25AM BLOOD PT-13.3 PTT-26.2 INR(PT)-1.1
+[**2108-1-7**] 08:45AM BLOOD PT-14.3* PTT-24.2 INR(PT)-1.2*
+[**2108-1-8**] 08:05AM BLOOD PT-14.9* PTT-24.4 INR(PT)-1.3*
+[**2108-1-9**] 08:00AM BLOOD PT-15.0* PTT-23.5 INR(PT)-1.3*
+.
+Basic Metabolic Profile:
+[**2108-1-2**] 07:59PM BLOOD Glucose-112* UreaN-31* Na-140 K-4.6
+Cl-111* HCO3-18* AnGap-16
+[**2108-1-3**] 01:45AM BLOOD Glucose-109* UreaN-29* Creat-1.4* Na-143
+K-3.9 Cl-112* HCO3-22 AnGap-13
+[**2108-1-4**] 05:11AM BLOOD Glucose-104* UreaN-16 Creat-1.2 Na-143
+K-3.3 Cl-107 HCO3-28 AnGap-11
+[**2108-1-5**] 08:40AM BLOOD Glucose-102* UreaN-19 Creat-1.2 Na-141
+K-3.4 Cl-106 HCO3-27 AnGap-11
+[**2108-1-6**] 07:25AM BLOOD Glucose-96 UreaN-16 Creat-1.1 Na-142
+K-3.5 Cl-108 HCO3-26 AnGap-12
+[**2108-1-7**] 08:45AM BLOOD Glucose-112* UreaN-15 Creat-1.0 Na-139
+K-3.6 Cl-104 HCO3-25 AnGap-14
+[**2108-1-8**] 08:05AM BLOOD Glucose-115* UreaN-15 Creat-1.0 Na-140
+K-3.8 Cl-105 HCO3-26 AnGap-13
+[**2108-1-9**] 08:00AM BLOOD Glucose-123* UreaN-23* Creat-1.1 Na-141
+K-4.1 Cl-105 HCO3-28 AnGap-12
+[**2108-1-10**] 06:55AM BLOOD Glucose-98 UreaN-29* Creat-1.1 Na-143
+K-4.0 Cl-106 HCO3-30 AnGap-11
+[**2108-1-3**] 01:45AM BLOOD Albumin-2.9* Calcium-7.2* Phos-3.4 Mg-1.8
+[**2108-1-10**] 06:55AM BLOOD Calcium-8.5 Phos-3.2 Mg-2.2
+.
+[**2108-1-2**] 03:00PM BLOOD ALT-16 AST-23 AlkPhos-101 TotBili-0.5
+[**2108-1-3**] 01:45AM BLOOD ALT-25 AST-63* AlkPhos-74 TotBili-0.8
+[**2108-1-4**] 05:11AM BLOOD ALT-25 AST-57* LD(LDH)-215 CK(CPK)-1635*
+AlkPhos-74 TotBili-0.3
+.
+[**2108-1-4**] 01:48PM BLOOD CK(CPK)-[**2003**]*
+[**2108-1-5**] 08:40AM BLOOD CK(CPK)-1341*
+[**2108-1-6**] 07:25AM BLOOD LD(LDH)-212 CK(CPK)-657*
+[**2108-1-7**] 08:45AM BLOOD CK(CPK)-360*
+[**2108-1-8**] 08:05AM BLOOD CK(CPK)-171
+[**2108-1-10**] 06:55AM BLOOD CK(CPK)-75
+.
+[**2108-1-5**] 08:40AM BLOOD TSH-1.7
+.
+[**2108-1-2**] 03:00PM BLOOD ASA-26* Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2108-1-3**] 10:44AM BLOOD ASA-38*
+[**2108-1-3**] 02:59PM BLOOD ASA-36*
+[**2108-1-3**] 06:06PM BLOOD ASA-31*
+[**2108-1-3**] 08:05PM BLOOD ASA-31*
+[**2108-1-3**] 11:00PM BLOOD ASA-30*
+[**2108-1-4**] 05:11AM BLOOD ASA-19
+[**2108-1-4**] 01:48PM BLOOD ASA-11
+.
+Urine:
+[**2108-1-3**] 10:16AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.006
+[**2108-1-2**] 06:40PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.016
+[**2108-1-3**] 10:16AM URINE Blood-SM  Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+[**2108-1-2**] 06:40PM URINE Blood-LG Nitrite-NEG Protein-75
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**2108-1-3**] 10:16AM URINE RBC-1 WBC-1 Bacteri-FEW Yeast-NONE Epi-0
+[**2108-1-2**] 06:40PM URINE RBC-0-2 WBC-0-2 Bacteri-FEW Yeast-NONE
+Epi-0-2 TransE-0-2
+[**2108-1-2**] 06:40PM URINE CastHy-[**2-24**]*
+[**2108-1-3**] 10:16AM URINE Hours-RANDOM UreaN-268 Creat-23 Na-34
+.
+[**2108-1-2**] 06:40PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-POS
+.
+Microbiology:
+- Urine culture [**2108-1-3**]: No growth
+- Blood culture [**2108-1-3**]: No growth to date
+- Sputum culture [**2108-1-3**]:
+ GRAM STAIN (Final [**2108-1-3**]):
+  >25 PMNs and <10 epithelial cells/100X field.
+  1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                               IN PAIRS.
+ RESPIRATORY CULTURE (Preliminary):
+  SPARSE GROWTH OROPHARYNGEAL FLORA.
+  GRAM NEGATIVE ROD(S).    SPARSE GROWTH.
+- Blood culture [**2108-1-6**]: No growth to date
+- Urine culture [**2108-1-7**]: No growth
+.
+ECG [**2108-1-2**]:  Sinus tachycardia. Prominent inferior lead Q waves
+raise the consideration of prior inferior myocardial infarction
+although are non-diagnostic. Diffuse ST-T wave abnormalities are
+non-specific. Clinical correlation is suggested. No previous
+tracing available for comparison.
+.
+ECG [**2108-1-3**]:  Sinus rhythm. Early precordial QRS transition.
+Modest inferolateral ST-T wave changes. Findings are
+non-specific. Since the previous tracing of same date there is
+probably no significant change.
+.
+Chest radiograph [**2108-1-2**]:  FINDINGS: The tip of the endotracheal
+tube is 4.4 cm from the carina. A nasogastric tube courses
+through the esophagus, enters into the stomach, but extends off
+the field of view of this image. Lung volumes are low. No focal
+consolidations are present. The left costophrenic angle was
+excluded from view of this image. The cardiac silhouette, hilar
+and mediastinal contours appear normal. The aorta is slightly
+tortuous.
+IMPRESSION: ET tube in satisfactory position. Lung volumes are
+low without
+evidence for focal consolidation.
+.
+CT head without contrast [**2108-1-3**]:  FINDINGS: There is no
+hemorrhage, Edema, mass effect, or evidence for acute vascular
+territorial infarction. [**Doctor Last Name **]-white matter differentiation
+appears well preserved. In the region of the left basal ganglia
+is a prominent CSF space (2:11). There is moderate mucosal
+thickening with air-fluid level within the right maxillary sinus
+and bilateral ethmoid air cells. The frontal sinuses, sphenoid
+sinuses, and mastoid air cells are clear. Middle ear cavity is
+clear. The globes and orbits are intact. There are no fractures.
+Rounded hyperdensity along the posterior medial region of the
+inferior bony orbit (2:5) on axial images is not substantiated
+on coronal reformatted images and likely represents volume
+averaging with the orbital bone and inferior rectus.
+IMPRESSION:
+1. No acute intracranial pathology.
+2. Moderate right maxillary and ethmoid sinus opacification.
+.
+Chest radiography [**2108-1-4**]:  FINDINGS: In comparison with the
+study of [**1-3**], the endotracheal and nasogastric tubes have been
+removed. The right base is now essentially clear, and there is
+no convincing evidence of aspiration.
+.
+Chest radiography [**2108-1-6**]:
+IMPRESSION: PA and lateral chest compared to [**1-3**] and 13.
+Mild relative congestion in the right lung could be due to early
+edema in the site of previous aspiration, but does not suggest
+pneumonia. Left lung is clear. Heart size is normal. Tiny left
+pleural effusion is seen only on the lateral view. Heart size
+normal. No pneumothorax.
+
+Brief Hospital Course:
+This is a 68 year old male with a past medical history of
+depression who was admitted status post suicide attempt with
+overdose ingestion of Seroquel, Paxil, and aspirin.  Status post
+3 day course in the MICU.  Now doing well on the floor and as of
+[**2108-1-7**], medically stable for transfer to psychiatric unit for
+further management of acute on chronic depression.
+.
+Suicidal Ingestion: Mr. [**Known lastname 84199**] was admitted after ingesting a
+large number of aspirin tablets, Seroquel and Paxil. This was
+confirmed by toxicology and EGD. NGT was placed, activated
+charcoal administered, and bicarb gtt was started. EKG and ABGs
+were followed serially. Made NPO and started on IV pantoprazole.
+EGD revealed a large number of intact aspirin tablets in the
+antrum of his stomach, which were removed. ASA known to cause
+spasm of the pylorus, so gastric emptying may have been slowed.
+Erosions had appeared - a likely cause of hematemesis at
+presetation. ASA continued to rise early in the admission with a
+peak of 38, which fell to 11 prior to transfer to the general
+medicine floor. Bicarbonate was given for resulting acidosis. A
+marked anion gap was never present. In regards to paxil and
+seroquel, patient was monitored closely for extrapyramidal
+symptoms and for serotonin syndrome but none were found.
+Medically stable for transfer to psychiatric floor.
+.
+Acute Blood Loss Anemia: Secondary to gastritis from pill
+ingestion, as evidenced by EGD.  Required 1 unit PRBC
+transfusion but hematocrits were measured serially and have been
+stable upon reaching the general medicine floor.  IV PPI was
+initially administered and was transitioned to PO.  Lisinopril
+and nifedipine was restarted and uptitrated to home dose with
+stable blood pressures.
+.
+Depression and Suicidality: Patient is status post suicide
+attempt with overdose of seroquel, paxil, and aspirin.  Familial
+predisposition may have played some role.  He will likely
+benefit more from combined therapy and medication.
+Anti-depressive/anxiety medications were held in the context of
+having received an enormous dose.  Was placed on 1:1 sitter.
+Consulted by social work and psychiatry teams.  Will likely
+reinitiate antidepressant treatment upon transfer to psychiatric
+unit.  Patient is medically stable as of [**2108-1-7**] and will
+require transfer to psychiatric inpatient facility for further
+management of psychiatric issues.
+.
+Aspiration Pneumonia: Chemical lung injury suspected on basis of
+clear aspiration of blood and stomach contents.  Due to question
+of pneumonia on chest radiograph, was started on Unasyn and
+transitioned to Augmentin in the MICU.  Was found to develop low
+grade fevers upon reaching the general medicine floor, with
+negative culture data.  Due to question of drug fever (and
+documented allergy to amoxicillin), patient was transitioned to
+levaquin.  Intermittent low grade fevers are likely secondary to
+resolving URI.  Medically stable for transfer to psychiatry.
+.
+Acute Renal Failure: Peaked to high of 1.9.  [**Month (only) 116**] be
+multifactorial, with urine lytes nondiagnostic.  Brief period of
+hypotension, aspirin ingestion, and elevation of CK associated
+with rhabdomyolysis may have all contributed to kidney damage.
+Was given IV hydration with normalization of creatinine.
+.
+Rhabdomyolysis: Patient found on the floor for unclear duration.
+ Likely muscle breakdown with CK rising to [**2003**].  CK values at
+the time of discharge were within normal limits.
+
+Medications on Admission:
+- Paroxetine 40mg QD 30 [**12-14**]
+- Seroquel 100mg 2 QHS 60 [**12-14**]
+- Citalopram 30mg PO daily
+- Ativan 1mg [**Hospital1 **] PRN
+- Lisinopril 40mg PO daily
+- nifedipine sr 30mg PO daily
+- asa 81mg daily
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for fever/pain: Do not exceed more than 4grams
+daily.
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+5. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for anxiety.
+6. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+7. Nifedipine 30 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Depression
+Suicidal Ingestion/ideation
+Aspiration pneumonia
+Acute renal failure
+Hypertension
+
+
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+
+Discharge Instructions:
+It was a pleasure taking care of you at [**Hospital1 827**].  You were admitted to the hospital after
+ingesting paxil, seroquel, and aspirin.  You were sent to the
+ICU and a tube was placed in your mouth to protect your
+breathing.  You also were found to have some signs of bleeding,
+and required scoping procedures from the gastroenterology
+(stomach) doctors which showed [**Name5 (PTitle) 84200**] of your stomach but
+no active sources of bleeding.  You were given medications to
+help clear your ingested pills from your body.  You now have a
+possible pneumonia in your lungs, but are doing well with
+antibiotics.  Due to your depression, you are being transferred
+to a psychiatric inpatient unit to further monitor your
+progress.
+.
+We have made the following changes to your medications:
+- STARTED Protonix 40mg twice a day
+- STARTED Senna
+- STARTED Colace
+- STARTED Acetaminophen 325-650 mg every 6 hours as needed for
+pain/fever
+- STOP paroxetine
+- STOP seroquel
+- STOP citalopram
+- HOLD aspirin until you see your primary care physician
+.
+Please seek medical attention should you develop worsening
+depression, anxiety, chest pain, shortness of breath, dizziness,
+lightheadedness, blood in your stool, or coughing up blood.
+
+Followup Instructions:
+Please follow up with the following appointments:
+.
+Please see your primary care physician, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) 3788**] [**Last Name (NamePattern1) **], [**12-24**]
+weeks after you are discharged from your psychiatric inpatient
+admission.  Phone: [**Telephone/Fax (1) 2261**].
+.
+Please also see your outpatient psychiatrist, Dr. [**First Name (STitle) 24529**] [**Name (STitle) 6051**],
+1-2 weeks after you are discharged from your psychiatric
+inpatient admission.  Phone: [**Telephone/Fax (1) 84201**].
+
+
+
